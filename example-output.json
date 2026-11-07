@@ -1,0 +1,21 @@
+{
+  "mode": "scripted_demo_no_llm",
+  "result": {
+    "status": "pending",
+    "id": "27009ee3af8dbfdf18236d33cfb96a33690a94971fb6a421be62357cd3791f3d",
+    "proposal": {
+      "queue": "billing",
+      "reply": "Thanks for flagging this. The billing team can review the duplicate charge.",
+      "summary": "Customer reports a duplicate charge.",
+      "ticket_id": "demo-001"
+    },
+    "trace": [
+      {
+        "step": 1,
+        "action": "policy",
+        "status": "ok"
+      }
+    ]
+  },
+  "local_assignments": 0
+}
